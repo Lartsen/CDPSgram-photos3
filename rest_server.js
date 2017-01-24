@@ -27,7 +27,7 @@ app.use(function (req, res, next) {
 });
 
 app.get('/', function(req,res){
-	res.send('DCPSgram-photos REST Service2222222222\n');
+	res.send('DCPSgram-photos REST Service2\n');
 })
 
 //Devuelve la imagen pedida
